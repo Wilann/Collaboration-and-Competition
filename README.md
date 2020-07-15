@@ -4,7 +4,13 @@
 [image2]: https://user-images.githubusercontent.com/10624937/42135622-e55fb586-7d12-11e8-8a54-3c31da15a90a.gif "Soccer"
 
 
-# Project 3: Collaboration and Competition
+# Deep Reinforcement Learning
+
+## Collaboration and Competition
+
+### Source
+
+Project 3 from Udacity's [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 
 ### Introduction
 
